@@ -36,8 +36,8 @@ and they should all be first sometimes!
   In the winter it is usually in a community hall or sports complex.
   Events are posted on [SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057).
 - **Mika's class** (and occasional jams) - a daytime indoor class.
-  On Saturday in studioGod in Ebisu.
-  Details are on [Mika's page](https://www.studio-god.com/blog/11137/)
+  On Saturday in studioGOD in Ebisu.
+  Details are on [studioGOD page](https://www.studio-god.com/blog/11137/)
 - **Akiko's class+jam** - an evening indoor class followed by a jam.
   On Satuday evenings.
   Usually in a studio in Jiyugaoka but sometimes moves around.
