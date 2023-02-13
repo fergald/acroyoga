@@ -53,3 +53,7 @@ since the pandemic
 but is still a good group to join
 if you want to do acroyoga in Tokyo
 as a visitor or resident.
+
+## Is this out of date?
+
+I last checked this page 2023-02-13.
