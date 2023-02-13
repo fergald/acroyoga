@@ -21,7 +21,7 @@ I always post this on the AcroYoga Facebook group (below).
 
 Everything below welcomes all levels.
 
-- Acroyoyogis - a daytime jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
+- Acroyoyogis - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
   Usually every Sunday,
   hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
@@ -39,6 +39,9 @@ Everything below welcomes all levels.
   Usually in Jiyugaoka but sometimes moves around.
   Details [here](https://acroyoga-freedom.jimdofree.com/)
   (page has English after Japanese).
+- Happy Tuesday jam in Edogawa Public Gymnasium.
+  Hosted by Matt.
+  Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
 
 ## Online resources
 
