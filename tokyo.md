@@ -31,15 +31,16 @@ Everything below welcomes all levels.
   In the summer it is often in a park.
   In the winter it is usually in a community hall or sports complex.
   Events are posted on [SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057).
-- **Mika's class** (and occasional jams).
-  Class is on a Saturday in studioGod in Ebisu.
+- **Mika's class** (and occasional jams) - a daytime indoor class.
+  On Saturday in studioGod in Ebisu.
   Details are on [Mika's page](https://www.studio-god.com/blog/11137/)
-- **Akiko's class+jam**.
+- **Akiko's class+jam** - an evening indoor class followed by a jam.
   On Satuday evenings.
   Usually in a studio in Jiyugaoka but sometimes moves around.
   Details [here](https://acroyoga-freedom.jimdofree.com/)
   (page has English after Japanese).
-- **Happy Tuesday jam** in [Edogawa Public Gymnasium].
+  You can attend class or jam or both.
+- **Happy Tuesday jam** in [Edogawa Public Gymnasium] - in indoor night-time jam.
   Hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
 
