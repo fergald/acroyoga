@@ -41,8 +41,10 @@ and they should all be first sometimes!
 - **Akiko's class+jam** - an evening indoor class followed by a jam.
   On Satuday evenings.
   Usually in a studio in Jiyugaoka but sometimes moves around.
-  Details [here](https://acroyoga-freedom.jimdofree.com/)
-  (page has English after Japanese).
+  Details on [Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/).
+  That page might only have Japanese
+  but Akiko speaks English,
+  so you can DM.
   You can attend class or jam or both.
 - **Happy Tuesday jam** in [Edogawa Public Gymnasium] - in indoor night-time jam.
   Hosted by Matt.
