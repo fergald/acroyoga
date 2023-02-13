@@ -21,25 +21,25 @@ I always post this on the AcroYoga Facebook group (below).
 
 Everything below welcomes all levels.
 
-- Acroyoyogis - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
+- *Acroyoyogis* - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
   Usually every Sunday,
   hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
-- SOGO AcroYoga Jam - a night-time jam.
+- _SOGO AcroYoga Jam_ - a night-time jam.
   Usually Tue or Wed.
   The location varies.
   In the summer it is often in a park.
   In the winter it is usually in a community hall or sports complex.
   Events are posted on [SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057).
-- Mika's class (and occasional jams).
+- _Mika's class_ (and occasional jams).
   Class is on a Saturday in studioGod in Ebisu.
   Details are on [Mika's page](https://www.studio-god.com/blog/11137/)
-- Akiko's class followed by jam.
+- _Akiko's class+jam_.
   On Satuday evenings.
   Usually in Jiyugaoka but sometimes moves around.
   Details [here](https://acroyoga-freedom.jimdofree.com/)
   (page has English after Japanese).
-- Happy Tuesday jam in Edogawa Public Gymnasium.
+- _Happy Tuesday jam_ in Edogawa Public Gymnasium.
   Hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
 
