@@ -36,10 +36,10 @@ Everything below welcomes all levels.
   Details are on [Mika's page](https://www.studio-god.com/blog/11137/)
 - _Akiko's class+jam_.
   On Satuday evenings.
-  Usually in Jiyugaoka but sometimes moves around.
+  Usually in a studio in Jiyugaoka but sometimes moves around.
   Details [here](https://acroyoga-freedom.jimdofree.com/)
   (page has English after Japanese).
-- _Happy Tuesday jam_ in Edogawa Public Gymnasium.
+- _Happy Tuesday jam_ in [Edogawa Public Gymnasium].
   Hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
 
