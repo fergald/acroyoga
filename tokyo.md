@@ -21,6 +21,10 @@ I always post this on the AcroYoga Facebook group (below).
 
 Everything below welcomes all levels.
 
+The order is random every you load the page
+because they are all great
+and they should all be first sometimes!
+
 - **Acroyoyogis** - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
   Usually every Sunday,
   hosted by Matt.
@@ -43,6 +47,22 @@ Everything below welcomes all levels.
 - **Happy Tuesday jam** in [Edogawa Public Gymnasium] - in indoor night-time jam.
   Hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
+
+<script>
+
+let list = document.querySelector("ul");
+let children = list.children;
+let newList = [];
+while (children.length) {
+  let child = children[Math.floor(Math.random()*children.length)];
+  list.removeChild(child);
+  newList.push(child);
+  children = list.children;
+}
+for (child of newList) {
+  list.appendChild(child);
+}
+</script>
 
 ## Online resources
 
