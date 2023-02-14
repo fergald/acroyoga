@@ -30,7 +30,8 @@ and they should all be first sometimes!
   hosted by Matt.
   Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
 - **SOGO AcroYoga Jam** - a night-time jam.
-  Usually Tue or Wed.
+  Usually Tue or Wed,
+  hosted by Daniel Norris.
   The location varies.
   In the summer it is often in a park.
   In the winter it is usually in a community hall or sports complex.
