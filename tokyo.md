@@ -7,8 +7,11 @@ I made it because I sometimes send this kind of info
 to people who are new to acro or new to Tokyo.
 Now I can just send them this link.
 
+## Feedback
 If you want something added or changed
-please send me a chat or email acro AT fergaldaly.com .
+or just have a suggestion
+please send me a chat
+or email **acro AT fergaldaly.com** .
 
 ## Regular Classes/Jams
 
