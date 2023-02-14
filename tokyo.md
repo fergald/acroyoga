@@ -24,12 +24,12 @@ I always post this on the AcroYoga Facebook group (below).
 
 Everything below welcomes all levels.
 
-The order is random every you load the page
-because they are all great
-and they should all be first sometimes!
-
 All of the teachers below are available for private lessons,
 please contact them directly for more information.
+
+The order is random every time you load the page
+because they are all great
+and they should all be first sometimes!
 
 - **Acroyoyogis** - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
   Usually every Sunday,
