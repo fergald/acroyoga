@@ -46,7 +46,7 @@ and they should all be first sometimes!
   On Saturday in studioGOD in Ebisu.
   Details are on [studioGOD page](https://www.studio-god.com/blog/11137/)
 - **Mika's lady-base jams** - an evening indoor jam for women only.
-  Will be in the Nakameguaro area.
+  Thursday night, in the Nakameguaro area.
   Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)
 - **Akiko's class+jam** - an evening indoor class followed by a jam.
   On Satuday evenings.
