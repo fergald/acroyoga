@@ -31,38 +31,18 @@ The order is random every time you load the page
 because they are all great
 and they should all be first sometimes!
 
-- **Acroyoyogis** - a daytime outdoor jam at the [big pine tree in Yoyogi park](https://goo.gl/maps/hjEZAWaZSV5nrmCF8).
-  Usually every Sunday,
-  hosted by Matt.
-  Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
-- **SOGO AcroYoga Jam** - a night-time jam.
-  Usually Tue or Wed,
-  hosted by Daniel Norris.
-  The location varies.
-  In the summer it is often in a park.
-  In the winter it is usually in a community hall or sports complex.
-  Events are posted on [SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057).
-- **Mika's class** (and occasional jams) - a daytime indoor class.
-  On Saturday in studioGOD in Ebisu.
-  Details are on [studioGOD page](https://www.studio-god.com/blog/11137/)
-- **Mika's lady-base jams** - an evening indoor jam for women only.
-  Thursday night, in the Nakameguaro area.
-  Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)
-- **Akiko's class+jam** - an evening indoor class followed by a jam.
-  On Satuday evenings.
-  Usually in a studio in Jiyugaoka but sometimes moves around.
-  Details on [Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/).
-  That page might only have Japanese
-  but Akiko speaks English,
-  so you can DM.
-  You can attend class or jam or both.
-- **Happy Tuesday jam** in [Edogawa Public Gymnasium] - in indoor night-time jam.
-  Hosted by Matt.
-  Events are posted on [Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis).
+|Name|Host/Teacher|Time|Location|Link|Notes|
+|:---|:-----------|:---|:-------|:---|:----|
+|**Acroyoyogis**|Matt Fitzgerald|Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
+|**SOGO AcroYoga Jam**|Daniel Norris|Tue or Wed night|Summer in a park, winter in a community hall or sports complex|[SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057)|
+|**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
+|**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
+|**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
+|**Happy Tuesday jam**|Mat Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 
 <script>
 
-let list = document.querySelector("ul");
+let list = document.querySelector("tbody");
 let children = list.children;
 let newList = [];
 while (children.length) {
