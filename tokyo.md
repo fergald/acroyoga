@@ -40,21 +40,7 @@ and they should all be first sometimes!
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
 |**Happy Tuesday jam**|Mat Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 
-<script>
-
-let list = document.querySelector("tbody");
-let children = list.children;
-let newList = [];
-while (children.length) {
-  let child = children[Math.floor(Math.random()*children.length)];
-  list.removeChild(child);
-  newList.push(child);
-  children = list.children;
-}
-for (child of newList) {
-  list.appendChild(child);
-}
-</script>
+<script src="randomise.js"></script>
 
 ## Online resources
 
