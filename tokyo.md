@@ -1,5 +1,7 @@
 # Acroyoga in Tokyo
 
+[日本語](tokyo-ja.html)
+
 ## What's this page?
 
 It's a list of the regular public acroyoga jams/classes in Tokyo.
