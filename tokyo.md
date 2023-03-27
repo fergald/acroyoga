@@ -15,6 +15,10 @@ or just have a suggestion
 please send me a chat
 or email **acro AT fergaldaly.com** .
 
+## Language
+
+All of the teachers listed below can work in English and Japanese.
+
 ## Regular Classes/Jams
 
 Tokyo has a few regular classes and jams.
