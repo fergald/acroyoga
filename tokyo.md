@@ -40,7 +40,7 @@ and they should all be first sometimes!
 |**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
-|**Happy Tuesday jam**|Mat Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
+|**Happy Tuesday jam**|Matt Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 
 <script src="randomise.js"></script>
 
