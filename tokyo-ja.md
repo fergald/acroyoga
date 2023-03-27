@@ -31,8 +31,8 @@
 |**SOGO AcroYoga Jam** | Daniel Norris | 火または水曜日の夜 | 夏は公園、冬はコミュニティホールまたはスポーツコンプレックス | [SOGO AcroYoga Club Facebookページ](https://www.facebook.com/groups/775712679249057) |
 |**Mika's class** | Mika Saito | 土曜日の日中 | 恵比寿のstudioGOD | [studioGODページ](https://www.studio-god.com/blog/11137/) |
 |**Mika's lady-base jams** (women only)|Mika Saito|木曜日の夜|中目黒エリア、屋内|Mikaのスケジュールは[Instagram](https://www.instagram.com/mikayoga.acro/)に投稿されます。|
-|**Acroyoga Freedom** (クラスからジャムへ)|中村亜希子|土曜日の夜|自由が丘のスタジオが通常場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
-|**Happy Tuesday jam**|マット・フィッツジェラルド|火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
+|**Acroyoga Freedom** (クラスからジャムへ)|Akiko Nakamura|土曜日の夜|自由が丘のスタジオが通常場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
+|**Happy Tuesday jam**| Matt Fitzgerald |火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 
 <script src="randomise.js"></script>
 
