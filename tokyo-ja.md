@@ -18,9 +18,9 @@
 ## 定期的なクラス/ジャム
 
 東京にはいくつかの定期的なクラスとジャムがあります。
-以下にリストされているのは私が知っているものです。
-プライベートまたは招待制のジャムもありますが、ここではリストしません。
-私はたまに祝日にジャムを開催します。
+以下にリストされているのは私が把握できているものです。
+プライベートまたは招待制のジャムもありますが、ここでは公開しません。
+私は時々祝日にジャムを開催します。
 その場合は常にAcroYoga Facebookグループ（下記参照）に投稿しています。
 
 以下のすべてのレベルの参加者を歓迎します。
@@ -35,7 +35,7 @@
 |**SOGO AcroYoga Jam** | Daniel Norris | 火または水曜日の夜 | 夏は公園、冬はコミュニティホールまたはスポーツコンプレックス | [SOGO AcroYoga Club Facebookページ](https://www.facebook.com/groups/775712679249057) |
 |**Mika's class** | Mika Saito | 土曜日の日中 | 恵比寿のstudioGOD | [studioGODページ](https://www.studio-god.com/blog/11137/) |
 |**Mika's lady-base jams** (women only)|Mika Saito|木曜日の夜|中目黒エリア、屋内|Mikaのスケジュールは[Instagram](https://www.instagram.com/mikayoga.acro/)に投稿されます。|
-|**Acroyoga Freedom** (クラスからジャムへ)|Akiko Nakamura|土曜日の夜|自由が丘のスタジオが通常場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
+|**Acroyoga Freedom** (クラスからジャムへ)|Akiko Nakamura|土曜日の夜|自由が丘のスタジオが通常開催通常開催場所通常開催通常開催場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
 |**Happy Tuesday jam**| Matt Fitzgerald |火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 
 <script src="randomise.js"></script>
