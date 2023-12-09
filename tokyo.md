@@ -40,7 +40,8 @@ and they should all be first sometimes!
 |Name|Host/Teacher|Time|Location|Link|Notes|
 |:---|:-----------|:---|:-------|:---|:----|
 |**Acroyoyogis**|Matt Fitzgerald|Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
-|**SOGO AcroYoga Jam**|Daniel Norris|Tue or Wed night|Summer in a park, winter in a community hall or sports complex|[SOGO AcroYoga Club Facebook page](https://www.facebook.com/groups/775712679249057)|
+|**SOGO AcroYoga (jams)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with Acroshift)|Shinjuku Area[^1] |[SOGO AcroYoga - Facebook page](https://www.facebook.com/groups/775712679249057)|
+|**AcroShift (lessons/events)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with SOGO)|Shinjuku Area[^1] |[AcroShift – Facebook page](https://www.facebook.com/acroshift)|
 |**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
@@ -61,3 +62,5 @@ as a visitor or resident.
 ## Is this out of date?
 
 I last checked this page 2023-03-27.
+
+[^1]: Please confirm with event page. Spring-Fall outdoors, Winter indoors (community centre)
