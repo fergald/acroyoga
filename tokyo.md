@@ -43,7 +43,7 @@ In weekday, order Monday-Sunday.
 |**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
 |**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
-|**Acroyoyogis**|Matt Fitzgerald|Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
+|**Acroyoyogis**| Nobody in particular |Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
 
 ## Online resources
 

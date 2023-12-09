@@ -37,7 +37,7 @@
 |**Mika's lady-base jams** (women only)|Mika Saito|木曜日の夜|中目黒エリア、屋内|Mikaのスケジュールは[Instagram](https://www.instagram.com/mikayoga.acro/)に投稿されます。|
 |**Mika's class** | Mika Saito | 土曜日の日中 | 恵比寿のstudioGOD | [studioGODページ](https://www.studio-god.com/blog/11137/) |
 |**Acroyoga Freedom** (クラスからジャムへ)|Akiko Nakamura|土曜日の夜|自由が丘のスタジオが通常開催場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
-|**Acroyoyogis** | Matt Fitzgerald | 日中 | 代々木公園の<a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">大杉の木</a> | <a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebookページ</a> |
+|**Acroyoyogis** | 特にない | 日中 | 代々木公園の<a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">大杉の木</a> | <a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebookページ</a> |
 
 ## オンラインリソース
 
