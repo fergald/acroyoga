@@ -33,21 +33,17 @@ Everything below welcomes all levels.
 All of the teachers below are available for private lessons,
 please contact them directly for more information.
 
-The order is random every time you load the page
-because they are all great
-and they should all be first sometimes!
+In weekday, order Monday-Sunday.
 
 |Name|Host/Teacher|Time|Location|Link|Notes|
 |:---|:-----------|:---|:-------|:---|:----|
-|**Acroyoyogis**|Matt Fitzgerald|Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
+|**Happy Tuesday jam**|Matt Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 |**SOGO AcroYoga (jams)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with Acroshift)|Shinjuku Area[^1] |[SOGO AcroYoga - Facebook page](https://www.facebook.com/groups/775712679249057)|
 |**AcroShift (lessons/events)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with SOGO)|Shinjuku Area[^1] |[AcroShift – Facebook page](https://www.facebook.com/acroshift)|
-|**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
+|**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat even|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
-|**Happy Tuesday jam**|Matt Fitzgerald|Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
-
-<script src="randomise.js"></script>
+|**Acroyoyogis**|Matt Fitzgerald|Sun daytime|The <a href="https://goo.gl/maps/hjEZAWaZSV5nrmCF8">big pine tree in Yoyogi park</a>|<a href="https://www.facebook.com/acroyoyogis">Acroyoyogis Facebook page</a>|
 
 ## Online resources
 
