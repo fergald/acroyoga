@@ -31,7 +31,7 @@
 
 |名前|主催/先生|時間|場所|リンク|備考|
 |:---|:-----------|:---|:-------|:---|:----|
-|**Happy Tuesday jam**| Matt Fitzgerald |火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
+|**Happy Tuesday jam**| 特にない |火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
 |**SOGO AcroYoga (jams)** | Daniel Norris | 火または水曜日の夜（隔週、Acroshiftと交互に開催） | 新宿の辺[^1] | [SOGO AcroYoga Club Facebookページ](https://www.facebook.com/groups/775712679249057) |
 | **AcroShift (クラス/イベント)** | Daniel Norris | 火または水曜日の夜 （隔週、SOGOと交互に開催）| 新宿の辺[^1] | [AcroShift – Facebook ページ](https://www.facebook.com/acroshift) |
 |**Mika's lady-base jams** (women only)|Mika Saito|木曜日の夜|中目黒エリア、屋内|Mikaのスケジュールは[Instagram](https://www.instagram.com/mikayoga.acro/)に投稿されます。|
@@ -45,6 +45,6 @@
 
 ## このページは古くなっていませんか？
 
-私が最後にこのページを確認したのは2023年3月27日です。```
+私が最後にこのページを確認したのは2023年12月09日です。```
 
 [^1]: イベントページで確認してください。 春から秋外室、冬室内。
