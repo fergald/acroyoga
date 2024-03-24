@@ -38,8 +38,8 @@ In weekday, order Monday-Sunday.
 |Name|Host/Teacher|Time|Location|Link|Notes|
 |:---|:-----------|:---|:-------|:---|:----|
 |**Happy Tuesday jam**|Nobody in particular. Often no English-speakers present |Tue night|Edogawa Public Gymnasium|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
-|**SOGO AcroYoga (jams)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with Acroshift)|Shinjuku Area[^1] |[SOGO AcroYoga - Facebook page](https://www.facebook.com/groups/775712679249057)|
-|**AcroShift (lessons/events)**|Daniel Norris|Tue or Wed evenings (every second week, alternates with SOGO)|Shinjuku Area[^1] |[AcroShift – Facebook page](https://www.facebook.com/acroshift)|
+|**SOGO AcroYoga (jams)**|Daniel Norris|Weekly or biweekly jams. Typically occuring mid-week during evenings. See the FB page for details.|Shinjuku Area[^1] |[SOGO AcroYoga - Facebook page](https://www.facebook.com/groups/775712679249057)|
+|**AcroShift (lessons/events)**|Daniel Norris|Unfixed schedule — may include lessons, workshops, and special events. See the FB page for details.|Shinjuku Area[^1] |[AcroShift – Facebook page](https://www.facebook.com/acroshift)|
 |**Mika's lady-base jams** (women only)|Mika Saito|Thu evening|Nakameguaro area, indoors|Mika's schedule is posted on her [Instagram](https://www.instagram.com/mikayoga.acro/)|
 |**Mika's class**|Mika Saito|Sat daytime|studioGOD in Ebisu|[studioGOD page](https://www.studio-god.com/blog/11137/)|
 |**Acroyoga Freedom** (class then jam)|Akiko Nakamura|Sat evening|Usually in a studio in Jiyugaoka but sometimes moves around|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)|The page is all Japanese, Akiko speaks English, so you can DM|
