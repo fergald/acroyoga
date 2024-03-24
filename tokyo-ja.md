@@ -32,8 +32,8 @@
 |名前|主催/先生|時間|場所|リンク|備考|
 |:---|:-----------|:---|:-------|:---|:----|
 |**Happy Tuesday jam**| 特にない |火曜日の夜|江戸川公共体育館|[Acroyoyogis Facebook page](https://www.facebook.com/acroyoyogis)|
-|**SOGO AcroYoga (jams)** | Daniel Norris | 毎週または隔週のジャム。 通常、週の半ばの夕方に発生します。 詳細はFBページをご覧ください| [SOGO AcroYoga Club Facebookページ](https://www.facebook.com/groups/775712679249057) |
-| **AcroShift (クラス/イベント)** | Daniel Norris | 不定のスケジュール — レッスン、ワークショップ、特別なイベントが含まれる場合があります。詳細はFBページをご覧ください| 新宿の辺[^1] | [AcroShift – Facebook ページ](https://www.facebook.com/acroshift) |
+|**SOGO AcroYoga (jams)** | Daniel Norris | 毎週または隔週にJAMを開催しています。通常、週の半ばの夕方に開催。 詳細はFacebookページを参照下さい。| [SOGO AcroYoga Club Facebookページ](https://www.facebook.com/groups/775712679249057) |
+| **AcroShift (クラス/イベント)** | Daniel Norris | 未定のスケジュール - レッスン、ワークショップ、特別イベントが含まれる場合があります。 詳細はFacebookページを参照下さい。| 新宿の辺[^1] | [AcroShift – Facebook ページ](https://www.facebook.com/acroshift) |
 |**Mika's lady-base jams** (women only)|Mika Saito|木曜日の夜|中目黒エリア、屋内|Mikaのスケジュールは[Instagram](https://www.instagram.com/mikayoga.acro/)に投稿されます。|
 |**Mika's class** | Mika Saito | 土曜日の日中 | 恵比寿のstudioGOD | [studioGODページ](https://www.studio-god.com/blog/11137/) |
 |**Acroyoga Freedom** (クラスからジャムへ)|Akiko Nakamura|土曜日の夜|自由が丘のスタジオが通常開催場所ですが、場所が変わることもあります|[Acroyoga Freedom Tokyo Instagram](https://www.instagram.com/acroyogafreedomtokyo/)。ページは日本語のみですが、Akikoは英語を話しますので、DMで問い合わせてください。|
