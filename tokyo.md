@@ -57,6 +57,6 @@ as a visitor or resident.
 
 ## Is this out of date?
 
-I last checked this page 2023-12-09.
+I last checked this page 2024-04-25.
 
 [^1]: Please confirm with event page. Spring-Fall outdoors, Winter indoors (community centre)
